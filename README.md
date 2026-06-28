@@ -97,7 +97,8 @@ Classement des entreprises selon leur valorisation.
 
 #### Classement des 3 meilleurs compagnies par secteur 
 
-Utilisation des **Window Functions** (`DENSE_RANK`) afin d'identifier les entreprises les mieux valorisées dans chaque secteur. 
+Utilisation des **Window Functions** (`DENSE_RANK`) afin d'identifier les entreprises les mieux valorisées dans chaque secteur.
+
 <img width="408" height="592" alt="image" src="https://github.com/user-attachments/assets/5bcbe680-6297-48ff-9889-9a434dbe1751" />
 
 --- 
@@ -106,14 +107,14 @@ Utilisation des **Window Functions** (`DENSE_RANK`) afin d'identifier les entrep
 
 Les résultats des requêtes SQL sont ensuite visualisés avec **Matplotlib** et **Seaborn** afin de produire des graphiques facilitant l'analyse et l'interprétation des données. 
 
-#### Top 10 Secteurs les plus valorisés 
+#### Top 10 Secteurs les plus valorisés :
 <img width="848" height="816" alt="image" src="https://github.com/user-attachments/assets/50e0b9aa-1cc7-4c8e-b078-4792cf2d4183" />
   
-#### Top 10 des entreprises
+#### Top 10 des entreprises : 
 
 <img width="1015" height="761" alt="image" src="https://github.com/user-attachments/assets/2ab05639-11fc-4390-893f-7442a8cbd93e" />
 
-#### Classement des 3 meilleurs compagnies par secteur
+#### Classement des 3 meilleurs compagnies par secteur :
 
 <img width="1320" height="906" alt="image" src="https://github.com/user-attachments/assets/a992d04f-2b97-45f4-abc1-8a1f612c69c4" />
 

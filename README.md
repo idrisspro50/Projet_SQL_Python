@@ -120,6 +120,4 @@ Les résultats des requêtes SQL sont ensuite visualisés avec **Matplotlib** et
 
 --- 
 
-## Auteur 
-
 **Idriss FEKARI** 
